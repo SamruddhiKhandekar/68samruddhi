@@ -14,6 +14,10 @@ int main()
 	cin>>x;
 	cout<<"\n enter value for y: ";
 	cin>>y
+<<<<<<< HEAD
 	addition(x,y);
+=======
+	add(x,y);
+>>>>>>> cpp
 	multiply(x,y);
 }
